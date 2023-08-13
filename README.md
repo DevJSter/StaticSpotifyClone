@@ -38,7 +38,7 @@ Dive into a world of melodies and beats with the Spotify Music Player! This open
 
 1. Clone this repository to your local machine using:
    ```
-   git clone https://github.com/your-username/spotify-music-player.git
+   git clone https://github.com/DevJSter/StaticSpotifyClone.git
    ```
 2. Open the `index.html` file in your favorite browser to kick-start your musical journey!
 
